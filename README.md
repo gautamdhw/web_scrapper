@@ -25,8 +25,8 @@ Follow these steps to run the project locally on your machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/truemeds-scraper.git
-cd truemeds-scraper
+git clone https://github.com/gautamdhw/web_scraper.git
+cd web_scraper
 ```
 
 ### 2. Install Dependencies
